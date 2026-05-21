@@ -4,7 +4,7 @@ A REST API that detects whether a piece of text is **positive**, **negative**, o
 
 ## Demo
 
-> Live demo: _coming soon_
+> **Live demo: [sentiment-api.up.railway.app](https://sentiment-api.up.railway.app)**
 
 ![screenshot](https://placehold.co/800x400/0f172a/8bffe5?text=Sentiment+Analysis+API)
 
